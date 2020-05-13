@@ -1,0 +1,15 @@
+{
+    "asstwoenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ass2-asstwoenv-215421-authRole",
+            "UnauthRoleArn": "arn:aws:iam::638448764107:role/amplify-ass2-asstwoenv-215421-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::638448764107:role/amplify-ass2-asstwoenv-215421-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-ass2-asstwoenv-215421-deployment",
+            "UnauthRoleName": "amplify-ass2-asstwoenv-215421-unauthRole",
+            "StackName": "amplify-ass2-asstwoenv-215421",
+            "StackId": "arn:aws:cloudformation:us-east-1:638448764107:stack/amplify-ass2-asstwoenv-215421/8b563700-9510-11ea-be00-0eb40de15aba",
+            "AmplifyAppId": "d1sb85dz3a575q"
+        }
+    }
+}
