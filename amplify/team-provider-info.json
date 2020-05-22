@@ -10,6 +10,14 @@
             "StackName": "amplify-ass2-asstwoenv-215421",
             "StackId": "arn:aws:cloudformation:us-east-1:638448764107:stack/amplify-ass2-asstwoenv-215421/8b563700-9510-11ea-be00-0eb40de15aba",
             "AmplifyAppId": "d1sb85dz3a575q"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1sb85dz3a575q",
+                    "type": "manual"
+                }
+            }
         }
     }
 }
